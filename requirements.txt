@@ -1,0 +1,6 @@
+pip
+streamlit
+streamlit_option_menu
+google.generativeai
+joblib
+scikit-learn
